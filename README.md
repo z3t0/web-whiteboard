@@ -1,5 +1,7 @@
 # WBO
 
+**Forked from https://github.com/lovasoa/whitebophir**
+
 WBO is an online collaborative whiteboard that allows many users to draw simultaneously on a large virtual board.
 The board is updated in real time for all connected users, and its state is always persisted. It can be used for many different purposes, including art, entertainment, design, teaching.
 
@@ -13,7 +15,7 @@ A demonstration server is available at [wbo.ophir.dev](https://wbo.ophir.dev)
   <td> <img width="300" src="https://user-images.githubusercontent.com/552629/59885574-06e02b80-93bc-11e9-9150-0670a1c5d4f3.png">
   <td> collaborative diagram editing
   <td> <img alt="Screenshot of WBO's user interface: architecture" width="300" src="https://user-images.githubusercontent.com/552629/59915054-07101380-941c-11e9-97c9-4980f50d302a.png" />
-  
+  k
   <tr>
    <td> teaching math on <b>WBO</b>
    <td> <img alt="wbo teaching" width="300" src="https://user-images.githubusercontent.com/552629/59915737-a386e580-941d-11e9-81ff-db9e37f140db.png" />
